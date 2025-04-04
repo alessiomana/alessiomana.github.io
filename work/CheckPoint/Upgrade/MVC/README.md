@@ -1,3 +1,4 @@
+# Multi-Version Cluster (MVC) Upgrade
 The Multi-Version Cluster (MVC) mechanism synchronizes connections between Cluster Members that run different versions. 
 
 You can upgrade to a newer version without a loss in connectivity (Zero Downtime Upgrade) and test the new version on some of the Cluster Members before you decide to upgrade the rest of the Cluster Members.
