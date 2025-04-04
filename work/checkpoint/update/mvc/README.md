@@ -67,7 +67,7 @@ OFF_BY_DEFAULT_ON_VSX=1
 Follow the steps in CPUSE.
 ##### On each VSX Cluster Member, examine the VSX configuration and cluster state
 | Step | Instructions                                                                                                                                                                                                          |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Connect to the command line on eachVSX Cluster Member.                                                                                                                                                                |
 | 2    | Log in to the Expert mode.                                                                                                                                                                                            |
 | 3    | Examine the VSX configuration:<br>`vsx stat -v`<br><br>Important:<br> - Make sure all the configured Virtual Devices are loaded.<br> - Make sure all Virtual Systems and Virtual Routers have SIC Trust and policy.   |
