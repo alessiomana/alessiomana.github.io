@@ -91,3 +91,9 @@ Follow the steps in CPUSE.
 ##### In SmartConsole, install the Access Control Policy and the Threat Prevention Policy on each Virtual System object
 
 ##### Test the functionality
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
