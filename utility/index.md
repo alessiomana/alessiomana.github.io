@@ -1,8 +1,8 @@
 ---
-title: Usefull stuff
+title: Useful stuff
 nav_order: 2
 ---
-# Usefull stuff
+# Useful stuff
 
 ## CheckPoint
 
