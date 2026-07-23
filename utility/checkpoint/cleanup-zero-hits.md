@@ -1,7 +1,6 @@
 ---
 title: Cleanup zero hits
 parent: CheckPoint
-nav_order: 1
 ---
 
 ## Disable/delete/move no hit rules
