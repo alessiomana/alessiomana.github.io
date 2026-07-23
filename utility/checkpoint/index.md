@@ -1,7 +1,6 @@
 ---
 title: CheckPoint
 parent: Useful stuff
-nav_order: 2
 ---
 # Useful stuff
 
