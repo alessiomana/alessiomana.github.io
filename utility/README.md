@@ -3,7 +3,7 @@
 #### Scripts
 
 - [Disable/delete/move 0 hit rules in last year (revisioned and perfectioned from cpmidsouth/Delete-or-Disable-Zero-Hit-Rules)](/checkpoint/cleanup-zero-hits.sh)
-'''sh
+```shell
 #!/bin/bash
 
 today="$(date +%Y-%m-%d)"
@@ -182,4 +182,4 @@ elif [ "$DISDEL" = "move" ]; then
     fi
   fi
 fi
-'''
+```
