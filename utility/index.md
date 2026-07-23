@@ -1,3 +1,7 @@
+---
+title: Usefull stuff
+nav_order: 2
+---
 # Usefull stuff
 
 ## CheckPoint
