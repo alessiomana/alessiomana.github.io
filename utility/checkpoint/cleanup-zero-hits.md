@@ -1,3 +1,5 @@
+## Disable/delete/move no hit rules
+This script disables/deletes/moves rules with 0 hits in last year (revisioned and perfectioned from cpmidsouth/Delete-or-Disable-Zero-Hit-Rules)
 
 ```bash
 #!/bin/bash
