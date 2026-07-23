@@ -1,4 +1,18 @@
+title: Alessio Mana's Repository
+description: A repository full of stuff
+
 remote_theme: "just-the-docs/just-the-docs"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 - jekyll-include-cache
+
+enable_copy_code_button: true
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+color_scheme: dark
