@@ -1,6 +1,6 @@
 ---
 title: Cleanup zero hits
-parent: checkpoint
+parent: CheckPoint
 nav_order: 1
 ---
 
