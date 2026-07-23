@@ -1,4 +1,7 @@
+---
+title: Home
+nav_order: 1
+---
 ## Alessio Mana's Repository
 
-Usefull stuff: [here](/utility)
-test
+Useful stuff: [here](/utility)
