@@ -1,3 +1,5 @@
+
+```bash
 #!/bin/bash
 
 today="$(date +%Y-%m-%d)"
@@ -176,3 +178,4 @@ elif [ "$DISDEL" = "move" ]; then
     fi
   fi
 fi
+```
