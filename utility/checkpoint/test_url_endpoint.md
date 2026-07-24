@@ -1,7 +1,17 @@
+---
+title: Test url endpoint
+parent: CheckPoint
+---
+
+## Test url endpoint
+This script tests all the urls in SK116590 using curl on your proxy. Just change \[YOUR_PROXY\].
+You can also remove proxy from curl command if you prefer.
+
+```powershell
 @echo off
 setlocal enabledelayedexpansion
 
-set PROXY=http://reglomb.proxy:8080
+set PROXY=http://[YOUR_PROXY]:8080
 
 :: Lista degli URL univoci
 set URLS=(^
@@ -58,3 +68,4 @@ for %%u in %URLS% do (
 echo ----------------------------------------------------
 echo Scansione completata.
 pause
+```
